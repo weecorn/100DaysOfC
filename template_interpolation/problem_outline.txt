@@ -1,0 +1,23 @@
+// ************************************************************************
+Advanced Challenge: Dynamic Template-Based String Interpolation
+
+Challenge Description
+Write a program that allows users to define a template string containing placeholders and replaces those placeholders with user-provided values. The placeholders will be in the format {key}. For example:
+
+Input Template:
+"Hello, {name}! You are {age} years old and live in {city}."
+
+Key-Value Inputs:
+name = Alice  
+age = 25  
+city = Wonderland  
+Output:
+"Hello, Alice! You are 25 years old and live in Wonderland."
+
+Requirements
+Allow the user to input a template string with placeholders.
+Allow the user to specify key-value pairs for substitution.
+Replace all placeholders in the template with their corresponding values.
+Handle cases where a placeholder doesn't have a corresponding key-value pair.
+Limit the length of the template and keys/values to ensure safety.
+// ************************************************************************
