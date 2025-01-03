@@ -1,0 +1,21 @@
+// ************************************************************************
+Intermediate Challenge: Diamond Pattern with Numbers
+
+Challenge Description
+Write a C program that takes an odd integer n as input from the user and prints a diamond pattern with numbers as shown below. The pattern should be centered and have n rows.
+
+Example:
+
+For n = 5, the output should be:
+
+    1
+   121
+  12321
+ 1234321
+123454321
+ 1234321
+  12321
+   121
+    1
+
+// ************************************************************************
