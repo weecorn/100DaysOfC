@@ -1,0 +1,26 @@
+// ************************************************************************
+Intermediate Challenge: Text Analysis
+
+Challenge Description
+Write a program that analyzes a given text input from the user. The program should calculate and display the following:
+
+- Number of sentences: Assume sentences end with '.', '!', or '?'.
+- Number of words: Words are separated by spaces.
+- Number of characters: Include all characters (including spaces and punctuation).
+- Frequency of each vowel: Count the occurrences of 'a', 'e', 'i', 'o', and 'u' (both uppercase and lowercase).
+
+Example:
+For the input text: "This is a sample text. It has two sentences! Wow, three sentences now?"
+
+The output should be:
+Number of sentences: 3
+Number of words: 13
+Number of characters: 53
+Vowel frequency:
+  a: 2
+  e: 7
+  i: 3
+  o: 3
+  u: 1 
+
+// ************************************************************************
