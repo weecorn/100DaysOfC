@@ -1,0 +1,34 @@
+// ************************************************************************
+Intermediate Challenge: Maze Solver
+
+Challenge Description
+Write a C program that reads a maze from a text file and finds a path from the start to the end.
+
+The maze is represented using # for walls, (space) for open paths, S for the starting point, and E for the end point.
+The program should print the maze with the solution path marked with . (periods).
+If no path exists, it should print "No solution found."
+
+Sample maze:
+########
+#S     #
+# ## # #
+# #  # #
+#   ## #
+# # #  #
+#     E#
+########
+
+
+
+
+Sample output
+########
+#.     #
+#.## ###
+#.#  # #
+#.  ## #
+#.# #..#
+#.....E#
+########
+
+// ************************************************************************
